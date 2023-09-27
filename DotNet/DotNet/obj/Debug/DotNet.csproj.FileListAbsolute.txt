@@ -1,0 +1,2 @@
+C:\Users\서강재\OneDrive\바탕 화면\006890\DotNet\DotNet\obj\Debug\DotNet.csproj.AssemblyReference.cache
+C:\Users\서강재\OneDrive\바탕 화면\006890\DotNet\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache
